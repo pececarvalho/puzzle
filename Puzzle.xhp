@@ -1,0 +1,74 @@
+
+[Version]
+Type=xMate
+Number=1.15
+
+[Info]
+Type=Executable
+Architecture=BorlandFwPuro
+Include=C:\Language\Fwh\Include;C:\Language\Sqllib\Include;C:\Language\xHarbour\Include;C:\Language\Borland\Include
+Define=
+
+[xMate]
+Create Map/List File=No
+
+[Project]
+Run=
+Params=
+Final Path=%HOME%
+Maintain LNK=Yes
+Default Type=1
+Error log=
+
+[Data Path]
+Dbf=C:\SvenNormalNfe
+
+[Editor]
+D:\Sistemas\Puzzle\Puzzle.prg=1,N,Y
+
+[Files]
+%HOME%\Puzzle.prg=1,.F.,320,1,
+%HOME%\Resource\Puzzle.res=2,.F.,0,0,
+%HB_LIB_INSTALL%\tipssl.lib=3,.T.,0,0,
+%HB_LIB_INSTALL%\libeay32.lib=4,.T.,0,0,
+%HB_LIB_INSTALL%\ssleay32.lib=5,.T.,0,0,
+C:\Language\SqlLib\Lib\libmysql.lib=6,.T.,0,0,
+C:\Language\SqlLib\Lib\sqllib_xHB_123_rev9961.LIB=7,.T.,0,0,
+C:\Language\Fwh\lib\FiveHC.lib=8,.T.,0,0,
+C:\Language\Fwh\lib\FiveHX.lib=9,.T.,0,0,
+%HB_LIB_INSTALL%\rtl.lib=10,.T.,0,0,
+%HB_LIB_INSTALL%\vm.lib=11,.T.,0,0,
+%HB_LIB_INSTALL%\gtgui.lib=12,.T.,0,0,
+%HB_LIB_INSTALL%\lang.lib=13,.T.,0,0,
+%HB_LIB_INSTALL%\macro.lib=14,.T.,0,0,
+%HB_LIB_INSTALL%\rdd.lib=15,.T.,0,0,
+%HB_LIB_INSTALL%\dbfcdx.lib=16,.T.,0,0,
+%HB_LIB_INSTALL%\Dbfntx.lib=17,.T.,0,0,
+%HB_LIB_INSTALL%\dbffpt.lib=18,.T.,0,0,
+%HB_LIB_INSTALL%\hbsix.lib=19,.T.,0,0,
+%HB_LIB_INSTALL%\common.lib=20,.T.,0,0,
+%HB_LIB_INSTALL%\codepage.lib=21,.T.,0,0,
+%HB_LIB_INSTALL%\pp.lib=22,.T.,0,0,
+%HB_LIB_INSTALL%\pcrepos.lib=23,.T.,0,0,
+%HB_LIB_INSTALL%\ct.lib=24,.T.,0,0,
+%HB_LIB_INSTALL%\zlib.lib=25,.T.,0,0,
+%HB_LIB_INSTALL%\hbzip.lib=26,.T.,0,0,
+%HB_LIB_INSTALL%\libmisc.lib=27,.T.,0,0,
+%HB_LIB_INSTALL%\hbcomm.LIB=28,.T.,0,0,
+%HB_LIB_INSTALL%\tip.lib=29,.T.,0,0,
+%HB_LIB_INSTALL%\png.lib=30,.T.,0,0,
+%HB_LIB_INSTALL%\hsx.lib=31,.T.,0,0,
+%HB_LIB_INSTALL%\usrrdd.lib=32,.T.,0,0,
+%C_LIB_INSTALL%\CW32.LIB=33,.T.,0,0,
+%C_LIB_INSTALL%\c0w32.obj=34,.T.,0,0,
+%C_LIB_INSTALL%\import32.lib=35,.T.,0,0,
+%C_LIB_INSTALL%\uuid.lib=36,.T.,0,0,
+%C_LIB_INSTALL%\ws2_32.lib=37,.T.,0,0,
+%C_LIB_INSTALL%\PSDK\odbc32.lib=38,.T.,0,0,
+%C_LIB_INSTALL%\PSDK\rasapi32.lib=39,.T.,0,0,
+%C_LIB_INSTALL%\PSDK\nddeapi.lib=40,.T.,0,0,
+%C_LIB_INSTALL%\PSDK\MSIMG32.LIB=41,.T.,0,0,
+%C_LIB_INSTALL%\PSDK\psapi.lib=42,.T.,0,0,
+%C_LIB_INSTALL%\PSDK\GdiPlus.lib=43,.T.,0,0,
+%C_LIB_INSTALL%\psdk\shell32.lib=44,.T.,0,0,
+C:\Language\Scanner\EZTW32.LIB=45,.T.,0,0,
